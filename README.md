@@ -27,7 +27,8 @@ http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
 http://www.mathworks.com/matlabcentral/fileexchange/42076-getfiles
 
 
-Brief file descriptions:
+BRIEF FILE DESCRIPTIONS:
+
 makeTimitMetadata.m - MATLAB script that generates structure containing TIMIT metadata.
 makeFullSentenceSpectrograms_TIMIT_Numenta.m - MATLAB script to generate auditory spectrograms from TIMIT WAV files.
 getTimitFiles2.m - MATLAB script for loading desired auditory spectrograms and downsampling them.
